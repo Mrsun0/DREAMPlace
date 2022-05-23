@@ -1,12 +1,12 @@
 [submodule "thirdparty/Limbo"]
 	path = thirdparty/Limbo
-	url = git@github.com/limbo018/Limbo.git
+	url = git@github.com:limbo018/Limbo.git
 [submodule "thirdparty/munkres-cpp"]
 	path = thirdparty/munkres-cpp
-	url = git@github.com/saebyn/munkres-cpp.git
+	url = git@github.com:saebyn/munkres-cpp.git
 [submodule "thirdparty/cub"]
 	path = thirdparty/cub
-	url = git@github.com/NVlabs/cub.git
+	url = git@github.com:NVlabs/cub.git
 [submodule "thirdparty/pybind11"]
 	path = thirdparty/pybind11
-	url = git@github.com/pybind/pybind11.git
+	url = git@github.com:pybind/pybind11.git
